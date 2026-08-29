@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- Heyyy, I am Eza Hussain
+- I am CS sudent at Comsats.
+- I knew I wanted to do CS when i was 10.
+- I don't just build things because they are needed, I build because something sparks my curiousty.
+- You can reach out to me at ezahussainn@gmail.com.
 <!--
 **EzaHussain/EzaHussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
